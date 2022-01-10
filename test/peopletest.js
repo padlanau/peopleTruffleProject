@@ -2,11 +2,11 @@ const People        = artifacts.require("People");
 const truffleAssert = require("truffle-assertions");
 /* 
     - D:\workspace\poepleTruffleProject > npm init
-	- package name : (poepleTruffleProject) press ENTER until you see below question
+	- package name : (peopleTruffleProject) press ENTER until you see below question
 	- Is this OK? (yes) press ENTER
-	- D:\workspace\poepleTruffleProject > npm install truffle-assertions
+	- D:\workspace\peopleTruffleProject > npm install truffle-assertions
     - After making changes of the test script below, continue the following:
-    - D:\workspace\poepleTruffleProject > truffle console
+    - D:\workspace\peopleTruffleProject > truffle console
     - truffle(development) > migrate --reset
     - truffle(development) > test or truffle test
 
