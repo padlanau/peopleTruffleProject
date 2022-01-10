@@ -137,9 +137,10 @@ Migrate (run from the terminal and make sure your Ganache is open) :
       - Saving migration to chain.
 
 Test :
->    truffle(development)> test
->    Using network 'development'.
-
+```
+    truffle(development)> test
+    Using network 'development'.
+```
 
     Compiling your contracts...
     ===========================
