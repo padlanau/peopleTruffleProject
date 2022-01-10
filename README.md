@@ -138,7 +138,7 @@ Migrate (run from the terminal and make sure your Ganache is open) :
 
 Test :
 >    truffle(development)> test
-    Using network 'development'.
+>    Using network 'development'.
 
 
     Compiling your contracts...
